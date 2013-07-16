@@ -20,7 +20,7 @@ $(document).ready(function() {
   });
 
   $("#tweet").click(function() {
-    var sharer = "https://twitter.com/share?text=" + $(this).data("name") + " is now on Kickstarter!&via=" + $(this).data("via") + "&url=";
+    var sharer = "https://twitter.com/share?text=" + $(this).data("name") + " is now on Indiegogo!&via=" + $(this).data("via") + "&url=";
     window.open(sharer + $(this).data("url"), 'sharer', 'width=626,height=436,top=200,left=200');
   });
 
