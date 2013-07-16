@@ -1,4 +1,3 @@
-
 pygments:         true
 permalink:        pretty
 markdown:         rdiscount
@@ -44,5 +43,5 @@ google_analytics:
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
   This is Huma Gel greeting you from Nashville. <br />
-  Here's to tell you that our project is now live on Kickstarter,
+  Here's to tell you that our project is now live on Indiegogo,
   and now we have to count on your support to not only back the project, but also share the love. ♥
